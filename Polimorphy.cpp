@@ -15,6 +15,13 @@ class joko:public seseorang{
         }
 };
 
+class Lia:public seseorang{
+    public:
+        void pesan(){
+            cout << "Pesan dari lia" << endl;
+        }
+};
+
 int main(){
 
 }
